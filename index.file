@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <title>Div-Box</title>
+    <style>
+      
+      .abc {
+        margin:auto;
+        padding:15px 40px 15px 40px;
+        width:600px;
+        height:600px;
+        border: 15px solid grey;
+      }
+      
+      .abc h5 {
+        letter-spacing:2px;
+        color:#63625f;
+      }
+      
+      .p2 {
+         border-left: 5px solid #63625f;
+         padding-left:10px;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div class="abc">
+<!--       first Article -->
+      <h5> NOVEMBER 23 2015 </h5>
+      <h1>This Is My First Article</h1>
+      <p class="p2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+      
+      <hr>
+      
+<!--       second article -->
+      <h5> DECEMBER 11 2015 </h5>
+      <h1>This Is Another Article</h1>
+      <p class="p2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+    </div>
+  </body>
+</html>
